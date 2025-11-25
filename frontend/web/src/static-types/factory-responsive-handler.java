@@ -1,0 +1,4 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/pointsswap_fhe/frontend/web/src/static-types/factory-responsive-handler.java
+// Generated at: 2025-12-03T23:45:47.381Z
+
+
